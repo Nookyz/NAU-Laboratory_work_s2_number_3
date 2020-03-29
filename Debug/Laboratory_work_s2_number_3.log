@@ -1,0 +1,3 @@
+﻿  Laboratory_work_s2_number_3.cpp
+D:\Progect Studio\Laboratory_work_s2_number_3\Laboratory_work_s2_number_3\Laboratory_work_s2_number_3.cpp(16,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Laboratory_work_s2_number_3.vcxproj -> D:\Progect Studio\Laboratory_work_s2_number_3\Debug\Laboratory_work_s2_number_3.exe
